@@ -1,6 +1,7 @@
 ## AssetManager_model
 
 * Java Lab 
+Run src\view\CreateData.java first to create data of users and assets in the system ❗❗
 
 A system using Java OOP and MVC model has functionalities:
 - Read file, write file dat using Collection (ArrayList)
